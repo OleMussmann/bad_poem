@@ -3,5 +3,5 @@ Someone please fix it!
 
     Roses are red,
     violets are blue,
-    this poem is bad,
-    because I can't rhyme.
+    this poem is still bad,
+    because I still can't rhyme.
