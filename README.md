@@ -1,7 +1,7 @@
 # I wrote a bad poem
 Someone please fix it!
 
-    Roses are red,
-    violets are blue,
-    this poem is bad,
-    like a glue.
+    Roses may be red,
+    violets can be blue,
+    this poem is short,
+    but everybody can remeber it.
