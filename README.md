@@ -4,4 +4,4 @@ Someone please fix it!
     Tulips are red,
     violets are blue,
     this poem is bad,
-    because I can't rhyme 😕
+    but not your dad!
