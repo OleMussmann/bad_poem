@@ -1,7 +1,7 @@
 #I wrote a bad poem
 Someone please fix it!
 
-    Tulips are red,
+    Tulips are red,blue,
     violets are blue,
     this poem is bad,
-    but I don't know how to do it!!!
+    but not your dad and but I don't know how to do it!!!
